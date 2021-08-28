@@ -6,18 +6,18 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 
 START_TEXT = """
-Hello {},
+Hello bro {},
 I am a simple youtube thumbnail downloader telegram bot.
 
 - Send a youtube video link or video ID.
 - I will send the thumbnail.
 
-Made by @FayasNoushad
+⭕ @Tg_Hydra_Galaxy ⭕
 """
 
 BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('⚙ Join Updates Channel ⚙', url='https://telegram.me/FayasNoushad')
+        InlineKeyboardButton('⚜️ Join Group ⚜️', url='https://t.me/Tg_Hydra_Galaxy')
         ]]
     )
 REGEX = r"^((?:https?:)?\/\/)?((?:www|m)\.)?((?:youtube\.com|youtu.be))(\/(?:[\w\-]+\?v=|embed\/|v\/)?)([\w\-]+)(\S+)?$"
