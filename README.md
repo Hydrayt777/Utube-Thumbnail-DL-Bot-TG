@@ -20,7 +20,7 @@ License -> https://github.com/FayasNoushad/YouTube-Thumbnail-Downloader/blob/mai
 <br/>
 
 <p align="left">
-  <a href="https://heroku.com/deploy?template=https://github.com/FayasNoushad/YouTube-Thumbnail-Downloader/tree/main">
+  <a href="https://heroku.com/deploy?template=https://github.com/Hydrayt777/Utube-Thumbnail-DL-Bot-TG.git/tree/main">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 </p>
